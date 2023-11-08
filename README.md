@@ -55,6 +55,20 @@ Supply chains are intricate networks of resources, activities, technology, infor
 - Enhanced resilience against supply chain disruptions through risk mitigation strategies.
 - Strengthened competitive advantage through technology-driven, efficient, and sustainable operations.
 
+### Project Deliverables
+
+Please see below for a list of deliverables that we plan to complete for this project.
+
+1. Project Plan: Document detailing the project's scope, objectives, methodology, and expected outcomes.
+
+2. Project Report: Document detailing what we learned from performing this project. This document will also include the results of our analysis and any conclusions we draw from them, as well as any related charts and plots. 
+
+3. README.md: File which contains the project plan and details about deliverables. This file will also document how to use the Google Colab File, and details about the data used in the project.
+
+4. Google Colab Project File: A Google Colab Notebook File containing the code for the project.
+
+5. Dataset: Dataset containing the data that was used for this project. This dataset will be uploaded to the GitHub repository.
+
 ### Conclusion
 
 "Supply Chain Optimization and Automated Logistics Planning" is poised to be a cornerstone project that will streamline operations, foster sustainability, and enhance profitability. By harnessing data-driven insights and innovative technology, we can build a supply chain that is not just a logistical function, but a strategic asset.
