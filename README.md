@@ -61,7 +61,7 @@ Please see below for a list of deliverables that we plan to complete for this pr
 
 1. Project Plan: Document detailing the project's scope, objectives, methodology, and expected outcomes.
 
-2. Project Report: Document detailing what we learned from performing this project. This document will also include the results of our analysis and any conclusions we draw from them, as well as any related charts and plots. 
+2. Project Report: Document detailing what we learned from performing this project. This document will also include the results of our analysis and any conclusions we draw from them, as well as any related charts and plots.
 
 3. README.md: File which contains the project plan and details about deliverables. This file will also document how to use the Google Colab File, and details about the data used in the project.
 
