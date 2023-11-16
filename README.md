@@ -6,7 +6,7 @@ CMPE255 Team Project for the Bay Area Rockers group consisting of Shawn Chumbar,
 
 - Team Members: Shawn Chumbar, Dhruval Shah, and Sajal Agarwal
 
-The project plan is transcribed below for ease of reading.
+The project plan is transcribed below as markdown for ease of reading.
 
 ## Project Title: Research Paper Summarization
 
