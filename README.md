@@ -16,16 +16,16 @@ The project plan is transcribed below as markdown for ease of reading.
 
 This project aims to develop an automated system for summarizing academic research papers, leveraging the power of Natural Language Processing (NLP) and deep learning. By implementing both extractive and abstractive summarization techniques, the project seeks to create concise, coherent summaries of lengthy research documents, facilitating easier comprehension and quicker review processes. Additionally, we plan to design a user-friendly web application that allows users to upload research papers in PDF format and receive summarized content.
 
+### Background
+
+With the ever-increasing volume of academic literature, the ability to quickly comprehend and digest lengthy research papers is becoming crucial. Traditional manual summarization is time-consuming and labor-intensive. Automated text summarization using NLP and AI offers a promising solution, with potential to revolutionize the way researchers and academics interact with literature.
+
 ### Objectives
 
 1. **Develop an Extractive Summarization Model**: To identify and extract key sentences and phrases directly from research papers.
 2. **Develop an Abstractive Summarization Model**: To generate concise paraphrased summaries that capture the essence of the research papers.
 3. **Design a Web Application**: To provide a platform for users to easily upload PDF documents and obtain summaries.
 4. **Compare and Analyze Performances**: To evaluate the effectiveness of both models in producing accurate and coherent summaries.
-
-### Background
-
-With the ever-increasing volume of academic literature, the ability to quickly comprehend and digest lengthy research papers is becoming crucial. Traditional manual summarization is time-consuming and labor-intensive. Automated text summarization using NLP and AI offers a promising solution, with potential to revolutionize the way researchers and academics interact with literature.
 
 ### Methodologies
 
