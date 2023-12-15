@@ -5,7 +5,7 @@ import os
 app = Flask(__name__)
 
 # Directory where the uploaded PDF files are stored.
-PDF_File_Directory = '/Users/schumbar/Desktop/team_projects/CMPE256/CMPE256_Team_Project/flask_app/Data/PDF/'
+PDF_File_Directory = '/Users/schumbar/Desktop/team_projects/CMPE255/CMPE255_Team_Project/flask_app/Data/PDF/'
 
 def delete_all_files_in_directory(directory):
     if not os.path.exists(directory):
