@@ -30,7 +30,7 @@ escape==1.1
 executing==1.2.0
 faiss-cpu==1.7.4
 filelock==3.13.1
-Flask==2.0.3
+Flask==2.0.1
 fonttools==4.42.1
 frozenlist==1.4.0
 gitdb==4.0.11
