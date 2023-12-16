@@ -16,8 +16,8 @@ nltk.download('punkt')
 nltk.download('stopwords')
 
 # Path where the PDFs Reside
-directory_path = "/Users/schumbar/Desktop/255_final_project_submission/CMPE255_Team_Project/Dataset"
-OPENAI_API_KEY = 'XXXX'
+directory_path = "REPLACE_ME"
+OPENAI_API_KEY = 'REPLACE_ME'
 
 def list_filenames(directory):
     try:
