@@ -130,6 +130,5 @@ validators==0.22.0
 virtualenv==20.24.7
 wcwidth==0.2.6
 webencodings==0.5.1
-Werkzeug==3.0.1
 yarl==1.9.2
 zipp==3.17.0
