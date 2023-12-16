@@ -9,8 +9,12 @@ PDF_File_Directory = os.getenv("PDF_PATH")
 
 def delete_all_files_in_directory(directory):
     if not os.path.exists(directory):
-        print(f"The directory {directory} does not exist.")
-        return
+        try:
+            os.makedirs(PDF_File_Directory, exist_ok=True)
+            print(f"Directory '{PDF_File_Directory}' created successfully.")
+        except OSError as error:
+            print(f"Creation of the directory '{PDF_File_Directory}' failed due to: {error}")
+            print(f"The directory {directory} does not exist.")
 
     for filename in os.listdir(directory):
         file_path = os.path.join(directory, filename)
