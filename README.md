@@ -25,6 +25,7 @@ Please see below for the list of deliverables related to this project.
 6. **BayAreaRockers_255_Powerpoint.pptx**: PowerPoint presentation for this project.
 7. **CMPE_255_Project_Report.pdf**: Project report for this project.
 8. **[Demo Video](https://www.youtube.com/watch?v=F6rSS3O_tTo&ab_channel=ShawnChumbar)**: Link to the demo video for this project.
+9. **[Deployed Application](https://secure-lake-72644-581f94b7623c.herokuapp.com/)**: Link to our Deployed application showcasing our project. 
 
 ### Installation Instructions
 
