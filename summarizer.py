@@ -16,8 +16,8 @@ nltk.download('punkt')
 nltk.download('stopwords')
 
 # Path where the PDFs Reside
-directory_path = "REPLACE_ME"
-OPENAI_API_KEY = 'REPLACE_ME'
+directory_path = os.getenv("PDF_PATH")
+OPENAI_API_KEY = os.getenv("OPEN_AI_KEY")
 
 def list_filenames(directory):
     try:
